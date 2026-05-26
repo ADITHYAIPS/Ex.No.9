@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date:26-05-2026
+# Reg. No.: 212223060010
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -44,10 +44,37 @@ Tools/LLMs for Video Generation:
 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
 
 # Deliverables:
-1.	The Original Video: Provided Video for reference.
-2.	The Final Generated Video: The Video created using your refined prompt.
-3.	Prompts Used: The text prompts created during the experiment.
-4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+1.	The Original Video:
+2.	
+https://github.com/user-attachments/assets/2f1bce0d-8529-49ba-806e-ffb8e878a2c7
+
+3. basic prompt : beautiful beach with blue water, soft waves, and a clear sky in landscape view
+4.	The Final Generated Video: 
+
+https://github.com/user-attachments/assets/4c748c0a-146e-44a0-8ca9-834c0c5a0901
+
+
+4.	Prompts Used:A cinematic landscape video of a beautiful tropical beach at sunset, golden sunlight reflecting on gentle ocean waves, soft breeze moving palm trees, clear blue sky with warm
+5.
+### 4. Comparison Report  
+
+| Aspect                  | Original Video | Generated Video | Notes / Improvements |
+|--------------------------|----------------|-----------------|-----------------------|
+| **Subjects**             | Mountains, river, trees | Mountains, river, trees | Matches well |
+| **Colors**               | Natural sunset hues (orange, pink, purple) | Slightly more saturated orange, pink, purple | Adjust color intensity for realism |
+| **River Reflection**     | Smooth reflection of sunset sky | Reflection reproduced effectively | Very close match |
+| **Tree Density**         | Moderate, more trees visible | Fewer trees along the bank | Add details: “dense forest on the left bank” |
+| **Clouds**               | Natural soft clouds | Different cloud shapes and motion | Refine with prompt: “soft pastel clouds” |
+| **Mood/Style**           | Realistic cinematic | More vivid, slightly dreamy | Adjust mood (dreamy vs realistic) |
+| **Camera Perspective**   | Wide-angle valley view | Not explicitly controlled | Add prompt: “wide-angle shot from valley viewpoint” |
+
+
 
 ## Conclusion:
+
+
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
+
+  
+7.	orange tones, ultra-realistic, smooth camera pan, 4K quality
+ative and practical applications.
